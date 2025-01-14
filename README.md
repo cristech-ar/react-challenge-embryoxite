@@ -1,7 +1,9 @@
 
 # React Challenge Embryoxite - Cristian Ríos 🔧
 
-![React](https://img.shields.io/badge/React-v18.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-v4.0-blue) ![Vite](https://img.shields.io/badge/Vite-fast-lightblue) ![Docker](https://img.shields.io/badge/Docker-ready-blue)  
+![React](https://img.shields.io/badge/React-v18.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-v4.0-blue) ![Vite](https://img.shields.io/badge/Vite-fast-lightblue) 
+
+![Logo-Embryoxite-recortado](https://github.com/user-attachments/assets/362f9f97-1ec4-4452-9b53-d830ee9fc2e4)
 
 ## Overview
 This project is a React application written in TypeScript, designed to manage and display a tree structure with data stored in localStorage. The app features a clean and modern UI inspired by Apple's typography and design standards. Users can:
