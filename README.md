@@ -61,7 +61,7 @@ The app leverages Material UI (MUI) components for a polished user experience an
 
 ### Prerequisites
 - [Node.js](https://nodejs.org) v18+
-- 
+
 
 ### Installation
 
