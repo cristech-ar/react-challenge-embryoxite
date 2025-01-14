@@ -126,5 +126,5 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/christian-rios-de
 ---
 
 ## Preview
-![Tree Preview](https://challenge-embryoxite.crisdev.tech)
+https://challenge-embryoxite.crisdev.tech
 
